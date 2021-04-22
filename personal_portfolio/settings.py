@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ktzxoluak5jo(_-v#%uq^n*l*z@-@ngfwwi6k0e!u@ue+k6ecj
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['freshdata.pythonanywhere.com']
+ALLOWED_HOSTS = ['www.freshdata.at']
 
 
 # Application definition
